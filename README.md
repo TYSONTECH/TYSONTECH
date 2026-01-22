@@ -10,7 +10,8 @@
   
 
 - Formerly worked on frontend design for Eglo Cloud  
-  
+
+- Formerly worked on LUA code for Connecta (Roblox)  
 
 - Linux Advocate  
   
