@@ -1,23 +1,23 @@
 <div align="center">
-  <!-- Custom Header Banner utilizing your repository images -->
-  <img src="imagestuff/TYSONMediaGroupBanner.png" alt="TYSON Media Group" style="width: 80%; max-width: 600px; margin-bottom: 20px;" />
+  <!-- Custom Header Banner utilizing absolute GitHub paths -->
+  <img src="https://github.com/TYSONTECH/TYSONMediaGroup/blob/main/imagestuff/TYSONMediaGroupBanner.png?raw=true" alt="TYSON Media Group" style="width: 80%; max-width: 600px; margin-bottom: 20px;" />
 </div>
 
 <br/>
 
-### <div align="center">Hi there! I'm Tyler. Building and scaling networks since 2020.</div>
+### <div align="center">Hey! I'm Tyler. From software development, to aviation, to music, to cars, I have way to many hobbies! 😁 </div>
 
 <div align="center">
-  <strong>Owner & Lead Advisor at Tyson Media Group</strong>
+  <strong>Owner & Director at TYSON Media Group</strong>
 </div>
 
 <br/>
 
 -  **Current Focus:** Engineering a high-performance Server Management RMM tool and an intelligent network downtime detector.
 -  **The Umbrella:** Managing a multi-brand sandbox project consisting of:
-  * **TYSON Media Group** — The main image behind TYSON. + car reviews 😁(**Stillness in Motion**).
-  * **TYSON Aviation** — _coming soon!_ - Atmospheric flight simulation content and relaxed, long-form spatial aviation logs taking place in microsoft flight simulator 2020. (**Stillness in Air**).
-  * **TYSON Atlantis** — An experimental audio playground delivering customized, tuned, and pitched music tracks (**Stillness in audio**).
+  * **TYSON Media Group** — The core of TYSON. TYSON Media Group. + cool stuff with cars and race cars mostly in video games! 😁
+  * **TYSON Aviation** — Atmospheric flight simulation content and relaxed, long-form spatial aviation logs taking place in Microsoft Flight Simulator 2020.
+  * **TYSON Atlantis** — An experimental audio playground delivering customized, tuned, and pitched music tracks made with love from _TYSON Atlantis_.
 -  **Linux Advocate:** Actively planning a future user-friendly desktop Linux distribution designed for the everyday person.
 -  **Background:** Formerly specialized in frontend design workflows for Eglo Cloud and custom Lua engine mechanics for Connecta.
 
@@ -98,17 +98,26 @@
 
 ## Brand Subdomains & Audio Sandbox  
 <div align="center">
-  <!-- Dynamic grid representation using your asset ecosystem -->
+  <!-- Dynamic grid representation using absolute asset endpoints -->
   <table border="0" cellpadding="10" cellspacing="0" align="center">
     <tr>
       <td align="center" width="33%">
-        <a href="https://tysonmediagroup.org"><img src="imagestuff/TYSONMediaGroupBanner.png" width="140" alt="Media Core"/><br/><sub>tysonmediagroup.org</sub></a>
+        <a href="https://tysonmediagroup.org">
+          <img src="https://github.com/TYSONTECH/TYSONMediaGroup/blob/main/imagestuff/TYSONMediaGroupBanner.png?raw=true" width="160" alt="Media Core"/><br/>
+          <sub>tysonmediagroup.org</sub>
+        </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://aviation.tysonmediagroup.org"><img src="imagestuff/TYSONAviationBanner.png" width="140" alt="Aviation Subdomain"/><br/><sub>aviation.tysonmediagroup.org</sub></a>
+        <a href="https://aviation.tysonmediagroup.org">
+          <img src="https://github.com/TYSONTECH/TYSONMediaGroup/blob/main/imagestuff/TYSONAviationBanner.png?raw=true" width="160" alt="Aviation Subdomain"/><br/>
+          <sub>aviation.tysonmediagroup.org</sub>
+        </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://atlantis.tysonmediagroup.org"><img src="imagestuff/TYSONAtlantisBanner.png" width="140" alt="Atlantis Audio"/><br/><sub>atlantis.tysonmediagroup.org</sub></a>
+        <a href="https://atlantis.tysonmediagroup.org">
+          <img src="https://raw.githubusercontent.com/TYSONTECH/TYSONMediaGroup/refs/heads/main/imagestuff/TYSONAtlantisBanner.png" width="160" alt="Atlantis Audio"/><br/>
+          <sub>atlantis.tysonmediagroup.org</sub>
+        </a>
       </td>
     </tr>
   </table>
